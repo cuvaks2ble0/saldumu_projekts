@@ -1,0 +1,10 @@
+Z:\11kl jutos\githuba projekti\MR_saldumi_11gkl\MR_saldumi_11kl_ms_forms\MR_saldumi_11kl_ms_forms\obj\Debug\MR_saldumi_11kl_ms_forms.csprojAssemblyReference.cache
+Z:\11kl jutos\githuba projekti\MR_saldumi_11gkl\MR_saldumi_11kl_ms_forms\MR_saldumi_11kl_ms_forms\obj\Debug\MR_saldumi_11kl_ms_forms.Form1.resources
+Z:\11kl jutos\githuba projekti\MR_saldumi_11gkl\MR_saldumi_11kl_ms_forms\MR_saldumi_11kl_ms_forms\obj\Debug\MR_saldumi_11kl_ms_forms.Properties.Resources.resources
+Z:\11kl jutos\githuba projekti\MR_saldumi_11gkl\MR_saldumi_11kl_ms_forms\MR_saldumi_11kl_ms_forms\obj\Debug\MR_saldumi_11kl_ms_forms.csproj.GenerateResource.cache
+Z:\11kl jutos\githuba projekti\MR_saldumi_11gkl\MR_saldumi_11kl_ms_forms\MR_saldumi_11kl_ms_forms\obj\Debug\MR_saldumi_11kl_ms_forms.csproj.CoreCompileInputs.cache
+Z:\11kl jutos\githuba projekti\MR_saldumi_11gkl\MR_saldumi_11kl_ms_forms\MR_saldumi_11kl_ms_forms\bin\Debug\MR_saldumi_11kl_ms_forms.exe.config
+Z:\11kl jutos\githuba projekti\MR_saldumi_11gkl\MR_saldumi_11kl_ms_forms\MR_saldumi_11kl_ms_forms\bin\Debug\MR_saldumi_11kl_ms_forms.exe
+Z:\11kl jutos\githuba projekti\MR_saldumi_11gkl\MR_saldumi_11kl_ms_forms\MR_saldumi_11kl_ms_forms\bin\Debug\MR_saldumi_11kl_ms_forms.pdb
+Z:\11kl jutos\githuba projekti\MR_saldumi_11gkl\MR_saldumi_11kl_ms_forms\MR_saldumi_11kl_ms_forms\obj\Debug\MR_saldumi_11kl_ms_forms.exe
+Z:\11kl jutos\githuba projekti\MR_saldumi_11gkl\MR_saldumi_11kl_ms_forms\MR_saldumi_11kl_ms_forms\obj\Debug\MR_saldumi_11kl_ms_forms.pdb
