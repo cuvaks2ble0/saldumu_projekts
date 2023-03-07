@@ -31,15 +31,31 @@ namespace MR_saldumi_11kl_ms_forms
             if(krabitis.Checked == true)
             {
                 kopeja_cena += 7.99;
+
+                double naudas_daudzums = Convert.ToDouble(teksts.Text);
+                double nauda = naudas_daudzums;
+                double kilogramu_daudzums = naudas_daudzums / kopeja_cena;
+                rezultats.Text = kilogramu_daudzums.ToString();
             }
-            else if (delfins.Checked == true)
+             if (delfins.Checked == true)
             {
                 kopeja_cena += 5.99;
+
+                double naudas_daudzums = Convert.ToDouble(teksts.Text);
+                double nauda = naudas_daudzums;
+                double kilogramu_daudzums = naudas_daudzums / kopeja_cena;
+                rezultats.Text = kilogramu_daudzums.ToString();
             }
-            else if(bocka.Checked == true)
+             if(bocka.Checked == true)
             {
                 kopeja_cena += 20.99;
+
+                double naudas_daudzums = Convert.ToDouble(teksts.Text);
+                double nauda = naudas_daudzums;
+                double kilogramu_daudzums = naudas_daudzums / kopeja_cena;
+                rezultats.Text = kilogramu_daudzums.ToString();
             }
+            
             else
             {
                 try
@@ -47,7 +63,8 @@ namespace MR_saldumi_11kl_ms_forms
                     double naudas_daudzums = Convert.ToDouble(teksts.Text);
                     double nauda = naudas_daudzums;
                     double kilogramu_daudzums = naudas_daudzums / kopeja_cena;
-                    rezultats.Text = kilogramu_daudzums.ToString();
+                    //kilogramu_daudzums = Math.Round(kilogramu_daudzums, 2);
+                    rezultats.Text = Math.Round(kilogramu_daudzums,2).ToString();
                 }
                 catch(Exception)
                 {
