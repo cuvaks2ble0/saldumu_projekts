@@ -35,7 +35,7 @@ namespace MR_saldumi_11kl_ms_forms
                 double naudas_daudzums = Convert.ToDouble(teksts.Text);
                 double nauda = naudas_daudzums;
                 double kilogramu_daudzums = naudas_daudzums / kopeja_cena;
-                rezultats.Text = kilogramu_daudzums.ToString();
+                rezultats.Text = Math.Round(kilogramu_daudzums,2).ToString();
             }
              if (delfins.Checked == true)
             {
@@ -44,7 +44,7 @@ namespace MR_saldumi_11kl_ms_forms
                 double naudas_daudzums = Convert.ToDouble(teksts.Text);
                 double nauda = naudas_daudzums;
                 double kilogramu_daudzums = naudas_daudzums / kopeja_cena;
-                rezultats.Text = kilogramu_daudzums.ToString();
+                rezultats.Text = Math.Round(kilogramu_daudzums,2).ToString();
             }
              if(bocka.Checked == true)
             {
@@ -53,7 +53,7 @@ namespace MR_saldumi_11kl_ms_forms
                 double naudas_daudzums = Convert.ToDouble(teksts.Text);
                 double nauda = naudas_daudzums;
                 double kilogramu_daudzums = naudas_daudzums / kopeja_cena;
-                rezultats.Text = kilogramu_daudzums.ToString();
+                rezultats.Text = Math.Round(kilogramu_daudzums,2).ToString();
             }
             
             else
@@ -63,7 +63,6 @@ namespace MR_saldumi_11kl_ms_forms
                     double naudas_daudzums = Convert.ToDouble(teksts.Text);
                     double nauda = naudas_daudzums;
                     double kilogramu_daudzums = naudas_daudzums / kopeja_cena;
-                    //kilogramu_daudzums = Math.Round(kilogramu_daudzums, 2);
                     rezultats.Text = Math.Round(kilogramu_daudzums,2).ToString();
                 }
                 catch(Exception)
